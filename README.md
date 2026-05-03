@@ -78,3 +78,4 @@ elite-certify/
 - `Ctrl/Cmd + D` — duplicate selected element
 - Double-click text — enter edit mode
 >>>>>>> feca82d (Initial setup from create-next-app)
+# eaalim-certify-system-2
